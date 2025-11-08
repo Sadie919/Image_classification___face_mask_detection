@@ -24,6 +24,9 @@
 - You can open the .ipynb file directly, or open it in Colab:
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZXOfxTi11bYPIduu2R-ikWsOBe5ED9Gn#scrollTo=UNCUrdToJjrj)
 
+📂 Data Source
+- This dataset was provided as part of the course materials. https://drive.google.com/file/d/1eYsotResiDuIpPyCMRWqi0Ip_xUsNNni/view?usp=drive_link
+
 🙌 Thanks
 - Big thanks to the Caltech + Simplilearn AI/ML Certification Program for the awesome learning journey.
 - This project helped me practice an end-to-end deep learning pipeline for image classification.
